@@ -1,0 +1,8 @@
+account_code,account_name,debit,credit
+101-000-111000-000-000,Operating Cash,1250000.0,0.0
+101-000-121000-000-000,Accounts Receivable Trade,2450000.0,0.0
+101-000-141000-000-000,Inventory Finished Goods,1850000.0,0.0
+101-000-151000-000-000,Prepaid Corporate Expenses,350000.0,0.0
+101-000-211000-000-000,Accounts Payable Trade Liability,0.0,11358330.99
+101-000-221000-000-000,Accrued Compensation & Payroll,0.0,480000.0
+101-000-311000-000-000,Retained Earnings Prior Periods,0.0,-5938330.99
